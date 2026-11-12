@@ -1,16 +1,16 @@
 # Network-Infrastructure-Lab
 
-## Architecture & Segmentation
+### Architecture & Segmentation
 
 
-## Routing & Firewall Management
+### Routing & Firewall Management
 
 
-## Remote Access
+### Remote Access
 
 
-## Network Services
+### Network Services
 
 
-## Validation & Testing
+### Validation & Testing
 
